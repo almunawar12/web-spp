@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kelas" value="name:id_kelas;datatype:int,name:nama_kelas;datatype:string,name:kompetensi_keahlian;datatype:string" />
+	<infoitem key="UD_siswa" value="name:nisn;datatype:int,name:nis;datatype:int,name:nama;datatype:string,name:id_kelas;datatype:int,name:alamat;datatype:string,name:no_telp;datatype:int,name:id_spp;datatype:int" />
+	<infoitem key="UD_spp" value="name:id_spp;datatype:int,name:tahun;datatype:year,name:nominal;datatype:string,name:jumlah_bayar;datatype:int" />
+</info>
